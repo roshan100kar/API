@@ -1,0 +1,5 @@
+Fruityvice API with PHP
+1. We can write code in PHP
+    - To Request data about different fruits
+    - To create a page with the received data, and send it back to the user
+
